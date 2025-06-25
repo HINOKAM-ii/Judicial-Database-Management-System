@@ -36,6 +36,11 @@ This project is a robust back-end database schema designed to support operations
 ## 📂 Directory Structure
 
 ```plaintext
-📁 JDBMS
- ┣ 📄 README.md          ← Project documentation
- ┣ 📄 schema.sql         ← DDL script to set up database tables
+📁 docs/
+ ┣ 📄 JDBMS_ER_and_Normalization.pdf
+
+📁 scripts/
+ ┣ 📄 DDL_Script.sql
+ ┣ 📄 Queries.sql
+
+📄 README.md
